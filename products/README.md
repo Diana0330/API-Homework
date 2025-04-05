@@ -1,3 +1,5 @@
+This is my solution to a homework assignment on a topic 'Introduction to API using Django REST framework as an example'.
+
 # Реализуем API отзывов к товару
 
 
