@@ -9,7 +9,7 @@ from .models import Product
 
 
 @api_view(['GET'])
-def products_list_view(request): #
+def products_list_view(request): 
     # """реализуйте получение всех товаров из БД
     # реализуйте сериализацию полученных данных
     # отдайте отсериализованные данные в Response"""
